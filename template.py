@@ -23,7 +23,8 @@ f"src/{project_name}/constants/__init__.py",
 "Dockerfile",
 "requirement.txt",
 "setup.py",
-"research/trails.ipynb"
+"research/trails.ipynb",
+"test.py"
 
 
 
